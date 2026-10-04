@@ -1,0 +1,6 @@
+{
+  "name": "CÔ HOÀN AI - Hệ Thống Dạy & Học Sinh Học Thông Minh",
+  "description": "Hệ thống vinh danh bảng vàng học sinh chăm chỉ, giao bài tập và trợ lý Sinh học AI - Trường THCS Bắc Đông Quan, Hưng Yên",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
